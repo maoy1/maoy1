@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mao Yan
-- 👀 I’m interested in Jenkins pipeline and python
-- 🌱 I’m currently learning microservice
+- 👀 I’m interested in Jenkins pipeline, python, AI
+- 🌱 I’m currently learning microservice, LLM
 - 💞️ I’m looking to collaborate on data 
 - 📫 How to reach me here
 
